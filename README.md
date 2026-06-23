@@ -1,4 +1,4 @@
-# Gramps Web Example Tree — Queen
+# Gramps Web Example Tree – Queen
 
 An example family tree database for [Gramps](https://gramps-project.org/) and [Gramps Web](https://www.grampsweb.org/), centered on the British royal family.
 
