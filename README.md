@@ -6,8 +6,8 @@ An example family tree database for [Gramps](https://gramps-project.org/) and [G
 
 ## Contents
 
-- `queen.gramps` — the Gramps XML database
-- `media/` — associated media files (portraits, photographs, coats of arms)
+- `queen.gramps` – the Gramps XML database
+- `media/` – associated media files (portraits, photographs, coats of arms)
 
 ## Data Sources & Licensing
 
@@ -31,7 +31,7 @@ Contributors:
 
 Credits:
 
-- **D. Jeffrey** (@D-Jeffrey) — original GEDCOM samples at [gedcom-samples](https://github.com/D-Jeffrey/gedcom-samples), released under CC0
+- **D. Jeffrey** (@D-Jeffrey) – original GEDCOM samples at [gedcom-samples](https://github.com/D-Jeffrey/gedcom-samples), released under CC0
 
 ## License
 
