@@ -21,6 +21,18 @@ Core genealogical data (names, dates, relationships) is adapted from the GEDCOM 
 
 Biographical text excerpts, portraits, and other media are sourced from [Wikipedia](https://www.wikipedia.org/) and Wikimedia Commons under **CC BY-SA 4.0**, which requires attribution to the original contributors and ShareAlike distribution of any derivatives. Gramps **citations** on individual records flag content carrying a specific CC license; check them before reusing a record.
 
+## Contributors & Credits
+
+Contributors:
+
+- **David Straub** (@DavidMStraub)
+- **Jittymol Mathew** (@jittymolmathew92)
+
+
+Credits:
+
+- **D. Jeffrey** (@D-Jeffrey) — original GEDCOM samples at [gedcom-samples](https://github.com/D-Jeffrey/gedcom-samples), released under CC0
+
 ## License
 
 The dataset as a whole is released under **Creative Commons Attribution-ShareAlike 4.0 International**. See [LICENSE](LICENSE) for the full license text.
